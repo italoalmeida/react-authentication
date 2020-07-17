@@ -18,6 +18,6 @@ export default createGlobalStyle`
   }
 
   #root {
-    background-color: #203649
+    background-color: #30363D
   }
 `;
