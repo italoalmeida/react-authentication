@@ -15,6 +15,7 @@ export const Content = styled.div`
 
 export const Title = styled.h2`
   font-size: 32px;
+  font-weight: 100;
   color: #ffffff;
   text-align: center;
   margin: 18px 0;
